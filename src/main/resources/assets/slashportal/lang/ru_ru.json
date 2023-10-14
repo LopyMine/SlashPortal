@@ -1,0 +1,6 @@
+{
+  "modmenu.descriptionTranslation.slash-portal": "Простой мод, который добавляет команду /portal для быстрого расчёта координат порталов в Незер и в обычный мир.",
+
+  "slash_portal.overworld_text": "Координаты портала в обычном мире:",
+  "slash_portal.nether_text": "Координаты портала в Незере:"
+}

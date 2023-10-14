@@ -1,0 +1,6 @@
+{
+  "modmenu.descriptionTranslation.slash-portal": "Simple utility mod that adds the /portal command for calculating the portals' Nether and Overworld coordinates quickly.",
+
+  "slash_portal.overworld_text": "Portal's Overworld coordinates:",
+  "slash_portal.nether_text": "Portal's Nether coordinates:"
+}
