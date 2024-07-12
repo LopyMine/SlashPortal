@@ -4,4 +4,4 @@
 # Slash Portal
 Simple utility mod that adds the /portal command for calculating the portals' Nether and Overworld coordinates quickly.
 
-![Showcase](img/showcase.webp)
+![Showcase](img/showcase.webp) 
